@@ -1,0 +1,8 @@
+[Settings]
+	ID = "angular-crash-todolist"
+
+[build]
+
+	base = "./"
+	publish = "./dist/myapp/"
+	command = "npm run build"
